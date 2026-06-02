@@ -1,0 +1,2 @@
+# https-github.com-EyabiArthur-mcino-Introduction-to-Git-and-GitHub
+# mcino-Introduction-to-Git-and-GitHub  This repository contains the lab exercises and resources for the IBM Skills Network course **"Introduction to Git and GitHub"**. It includes sample files, a simple interest calculator script, and configuration documents (license, code of conduct, contributing guidelines). Use this repository to practice
